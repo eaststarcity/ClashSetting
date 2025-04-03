@@ -14,6 +14,7 @@ IP-CIDR,219.146.1.66/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,digitalplat.org
+DOMAIN-SUFFIX,figma.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
