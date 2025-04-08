@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,newcon.co.jp
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-edge.com
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
