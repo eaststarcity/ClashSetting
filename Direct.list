@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,slack-edge.com
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,vmware.com
+DOMAIN-SUFFIX,digicert.com
 
 # 国内DNS
 DOMAIN-SUFFIX,obiosh.com
