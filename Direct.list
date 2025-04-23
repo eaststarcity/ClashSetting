@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,obiosh.com
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,firefox
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
