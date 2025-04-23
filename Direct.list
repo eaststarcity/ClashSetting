@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.com
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
 IP-CIDR,119.29.29.29/32,no-resolve
