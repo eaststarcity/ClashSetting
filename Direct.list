@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,118.238.215.136/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,digitalplat.org
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,vmware.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,bing.com
+
 
 # 国内DNS
 DOMAIN-SUFFIX,obiosh.com
