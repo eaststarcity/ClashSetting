@@ -16,6 +16,7 @@ IP-CIDR,118.238.215.136/32,no-resolve
 # 国外DNS
 DOMAIN-SUFFIX,digitalplat.org
 DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,newcon.co.jp
 DOMAIN-SUFFIX,newcon-sh.com
 DOMAIN-SUFFIX,notion.so
