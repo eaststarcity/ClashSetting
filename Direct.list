@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,ixsystems.com
 # 国内DNS
 DOMAIN-SUFFIX,obiosh.com
 DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,classin.com
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.net
